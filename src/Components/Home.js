@@ -4,6 +4,7 @@ import {Button, TextField} from "@mui/material"
 import axios from "axios"
 import ScatterPlot from "./IrisData/ScatterPlot";
 import { useHistory } from "react-router-dom";
+import './style.css';
 
 export default function Home(props){
 
